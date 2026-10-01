@@ -1,2 +1,1 @@
-# SE_Lab
-Software Engineering Lab
+# SE_LABORATORY-
